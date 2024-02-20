@@ -1,4 +1,7 @@
-x=3;
-y=3;
+moving_block = false;
+var _block;
+
+x=0;
+y=0;
 
 
