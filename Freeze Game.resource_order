@@ -16,8 +16,12 @@
     {"name":"Timelines","order":9,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_cursor","order":2,"path":"objects/obj_cursor/obj_cursor.yy",},
+    {"name":"Sprite3","order":17,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Sprite2","order":16,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"sndIntro","order":1,"path":"sounds/sndIntro/sndIntro.yy",},
     {"name":"macros","order":1,"path":"scripts/macros/macros.yy",},
+    {"name":"obj_block","order":3,"path":"objects/obj_block/obj_block.yy",},
     {"name":"init","order":2,"path":"scripts/init/init.yy",},
     {"name":"nokia_play_sound","order":3,"path":"scripts/nokia_play_sound/nokia_play_sound.yy",},
     {"name":"sleep","order":4,"path":"scripts/sleep/sleep.yy",},
