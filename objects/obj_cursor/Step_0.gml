@@ -21,19 +21,27 @@ else
 {
 	if(keyboard_check_pressed(vk_up) && y > 3)
 	{
-		_block
+		_block.y_dir = -1;
+		_block.x_dir = 0;
+		_block.move = true;
 	}
 	if(keyboard_check_pressed(vk_down) && y < 75)
 	{
-		
+		_block.y_dir = 1;
+		_block.x_dir = 0;
+		_block.move = true;
 	}
 	if(keyboard_check_pressed(vk_left) && x > 3)
 	{
-		
+		_block.y_dir = 0;
+		_block.x_dir = -1;
+		_block.move = true;
 	}
 	if(keyboard_check_pressed(vk_right) &&  x < 42)
 	{
-		
+		_block.y_dir = 0;
+		_block.x_dir = 1;
+		_block.move = true;
 	}
 }
 

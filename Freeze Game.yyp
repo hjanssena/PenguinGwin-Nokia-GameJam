@@ -36,9 +36,11 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"obj_cursor","path":"objects/obj_cursor/obj_cursor.yy",},},
-    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
-    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
+    {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},},
+    {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
+    {"id":{"name":"spr_cursor","path":"sprites/spr_cursor/spr_cursor.yy",},},
     {"id":{"name":"sprExample","path":"sprites/sprExample/sprExample.yy",},},
     {"id":{"name":"sndSmash","path":"sounds/sndSmash/sndSmash.yy",},},
     {"id":{"name":"sndIntro","path":"sounds/sndIntro/sndIntro.yy",},},

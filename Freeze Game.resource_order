@@ -16,9 +16,11 @@
     {"name":"Timelines","order":9,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_wall","order":4,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"obj_cursor","order":2,"path":"objects/obj_cursor/obj_cursor.yy",},
-    {"name":"Sprite3","order":17,"path":"sprites/Sprite3/Sprite3.yy",},
-    {"name":"Sprite2","order":16,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"spr_block","order":2,"path":"sprites/spr_block/spr_block.yy",},
+    {"name":"spr_wall","order":3,"path":"sprites/spr_wall/spr_wall.yy",},
+    {"name":"spr_cursor","order":1,"path":"sprites/spr_cursor/spr_cursor.yy",},
     {"name":"sndIntro","order":1,"path":"sounds/sndIntro/sndIntro.yy",},
     {"name":"macros","order":1,"path":"scripts/macros/macros.yy",},
     {"name":"obj_block","order":3,"path":"objects/obj_block/obj_block.yy",},
