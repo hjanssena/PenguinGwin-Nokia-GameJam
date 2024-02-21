@@ -37,8 +37,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "spr_block",
-    "path": "sprites/spr_block/spr_block.yy",
+    "name": "sprCube",
+    "path": "sprites/sprCube/sprCube.yy",
   },
   "spriteMaskId": null,
   "visible": true,

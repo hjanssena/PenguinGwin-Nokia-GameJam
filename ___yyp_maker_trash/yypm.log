@@ -1,0 +1,402 @@
+You are using YYP Maker v1.1.5, released in 14-08-2022
+
+
+
+[21-02-2024 17:14:14] Initialized GameMaker Project: Freeze Game.yyp
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/animcurves
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/extensions
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/fonts
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/notes
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects
+[21-02-2024 17:14:14] Checking obj_wall
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/obj_wall
+[21-02-2024 17:14:14] Checking obj_cursor
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/obj_cursor
+[21-02-2024 17:14:14] Checking obj_block
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/obj_block
+[21-02-2024 17:14:14] Checking game
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/game
+[21-02-2024 17:14:14] Checking example
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/example
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/example
+[21-02-2024 17:14:14] Checking Step_0.gml
+[21-02-2024 17:14:14] Checking KeyPress_32.gml
+[21-02-2024 17:14:14] Checking example.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/example/example.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/example/example.yy
+[21-02-2024 17:14:14] Par: "folders/Objects/example" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/example/example.yy"
+[21-02-2024 17:14:14] Found Object: example
+[21-02-2024 17:14:14] Checking Draw_0.gml
+[21-02-2024 17:14:14] Checking Create_0.gml
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/game
+[21-02-2024 17:14:14] Checking Step_1.gml
+[21-02-2024 17:14:14] Checking KeyPress_116.gml
+[21-02-2024 17:14:14] Checking game.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/game/game.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/game/game.yy
+[21-02-2024 17:14:14] Par: "folders/Objects" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/game/game.yy"
+[21-02-2024 17:14:14] Found Object: game
+[21-02-2024 17:14:14] Checking Create_0.gml
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/obj_block
+[21-02-2024 17:14:14] Checking Step_0.gml
+[21-02-2024 17:14:14] Checking obj_block.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/obj_block/obj_block.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/obj_block/obj_block.yy
+[21-02-2024 17:14:14] Par: "folders/Objects" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/obj_block/obj_block.yy"
+[21-02-2024 17:14:14] Found Object: obj_block
+[21-02-2024 17:14:14] Checking Create_0.gml
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/obj_cursor
+[21-02-2024 17:14:14] Checking Step_0.gml
+[21-02-2024 17:14:14] Checking obj_cursor.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/obj_cursor/obj_cursor.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/obj_cursor/obj_cursor.yy
+[21-02-2024 17:14:14] Par: "folders/Objects" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/obj_cursor/obj_cursor.yy"
+[21-02-2024 17:14:14] Found Object: obj_cursor
+[21-02-2024 17:14:14] Checking Create_0.gml
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/obj_wall
+[21-02-2024 17:14:14] Checking obj_wall.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/obj_wall/obj_wall.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/obj_wall/obj_wall.yy
+[21-02-2024 17:14:14] Par: "folders/Objects" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/objects/obj_wall/obj_wall.yy"
+[21-02-2024 17:14:14] Found Object: obj_wall
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options
+[21-02-2024 17:14:14] Checking windows
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/windows
+[21-02-2024 17:14:14] Checking tvos
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/tvos
+[21-02-2024 17:14:14] Checking operagx
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/operagx
+[21-02-2024 17:14:14] Checking main
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/main
+[21-02-2024 17:14:14] Checking mac
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/mac
+[21-02-2024 17:14:14] Checking linux
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/linux
+[21-02-2024 17:14:14] Checking ios
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/ios
+[21-02-2024 17:14:14] Checking html5
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/html5
+[21-02-2024 17:14:14] Checking android
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/android
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/android
+[21-02-2024 17:14:14] Checking options_android.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/android/options_android.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/android/options_android.yy
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/html5
+[21-02-2024 17:14:14] Checking options_html5.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/html5/options_html5.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/html5/options_html5.yy
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/ios
+[21-02-2024 17:14:14] Checking options_ios.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/ios/options_ios.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/ios/options_ios.yy
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/linux
+[21-02-2024 17:14:14] Checking options_linux.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/linux/options_linux.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/linux/options_linux.yy
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/mac
+[21-02-2024 17:14:14] Checking options_mac.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/mac/options_mac.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/mac/options_mac.yy
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/main
+[21-02-2024 17:14:14] Checking options_main.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/main/options_main.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/main/options_main.yy
+[21-02-2024 17:14:14] Checking inherited
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/main/inherited
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/main/inherited
+[21-02-2024 17:14:14] Checking options_main.inherited.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/main/inherited/options_main.inherited.yy
+[21-02-2024 17:14:14] Invalid .yy file: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/main/inherited/options_main.inherited.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/main/inherited/options_main.inherited.yy
+[21-02-2024 17:14:14] Invalid file: options_main.inherited.yy, will be moved to ___yyp_maker_trash
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/operagx
+[21-02-2024 17:14:14] Checking options_operagx.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/operagx/options_operagx.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/operagx/options_operagx.yy
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/tvos
+[21-02-2024 17:14:14] Checking options_tvos.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/tvos/options_tvos.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/tvos/options_tvos.yy
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/windows
+[21-02-2024 17:14:14] Checking options_windows.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/windows/options_windows.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/options/windows/options_windows.yy
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/paths
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/rooms
+[21-02-2024 17:14:14] Checking rmExample
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/rooms/rmExample
+[21-02-2024 17:14:14] Checking FirstRoom
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/rooms/FirstRoom
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/rooms/FirstRoom
+[21-02-2024 17:14:14] Checking FirstRoom.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/rooms/FirstRoom/FirstRoom.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/rooms/FirstRoom/FirstRoom.yy
+[21-02-2024 17:14:14] Par: "folders/Rooms" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/rooms/FirstRoom/FirstRoom.yy"
+[21-02-2024 17:14:14] Found Room: FirstRoom
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/rooms/rmExample
+[21-02-2024 17:14:14] Checking rmExample.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/rooms/rmExample/rmExample.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/rooms/rmExample/rmExample.yy
+[21-02-2024 17:14:14] Par: "folders/Rooms" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/rooms/rmExample/rmExample.yy"
+[21-02-2024 17:14:14] Found Room: rmExample
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts
+[21-02-2024 17:14:14] Checking sleep
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/sleep
+[21-02-2024 17:14:14] Checking README
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/README
+[21-02-2024 17:14:14] Checking nokia_play_sound
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/nokia_play_sound
+[21-02-2024 17:14:14] Checking macros
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/macros
+[21-02-2024 17:14:14] Checking init
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/init
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/init
+[21-02-2024 17:14:14] Checking init.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/init/init.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/init/init.yy
+[21-02-2024 17:14:14] Par: "folders/Scripts" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/init/init.yy"
+[21-02-2024 17:14:14] Found Script: init
+[21-02-2024 17:14:14] Checking init.gml
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/macros
+[21-02-2024 17:14:14] Checking macros.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/macros/macros.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/macros/macros.yy
+[21-02-2024 17:14:14] Par: "folders/Scripts" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/macros/macros.yy"
+[21-02-2024 17:14:14] Found Script: macros
+[21-02-2024 17:14:14] Checking macros.gml
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/nokia_play_sound
+[21-02-2024 17:14:14] Checking nokia_play_sound.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/nokia_play_sound/nokia_play_sound.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/nokia_play_sound/nokia_play_sound.yy
+[21-02-2024 17:14:14] Par: "folders/Scripts" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/nokia_play_sound/nokia_play_sound.yy"
+[21-02-2024 17:14:14] Found Script: nokia_play_sound
+[21-02-2024 17:14:14] Checking nokia_play_sound.gml
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/README
+[21-02-2024 17:14:14] Checking README.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/README/README.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/README/README.yy
+[21-02-2024 17:14:14] Par: "folders/Scripts" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/README/README.yy"
+[21-02-2024 17:14:14] Found Script: README
+[21-02-2024 17:14:14] Checking README.gml
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/sleep
+[21-02-2024 17:14:14] Checking sleep.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/sleep/sleep.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/sleep/sleep.yy
+[21-02-2024 17:14:14] Par: "folders/Scripts" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/scripts/sleep/sleep.yy"
+[21-02-2024 17:14:14] Found Script: sleep
+[21-02-2024 17:14:14] Checking sleep.gml
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sequences
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/shaders
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sounds
+[21-02-2024 17:14:14] Checking sndSmash
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sounds/sndSmash
+[21-02-2024 17:14:14] Checking sndIntro
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sounds/sndIntro
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sounds/sndIntro
+[21-02-2024 17:14:14] Checking sndIntro.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sounds/sndIntro/sndIntro.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sounds/sndIntro/sndIntro.yy
+[21-02-2024 17:14:14] Par: "folders/Sounds/example" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sounds/sndIntro/sndIntro.yy"
+[21-02-2024 17:14:14] Found Sound: sndIntro
+[21-02-2024 17:14:14] Checking sndIntro
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sounds/sndSmash
+[21-02-2024 17:14:14] Checking sndSmash.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sounds/sndSmash/sndSmash.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sounds/sndSmash/sndSmash.yy
+[21-02-2024 17:14:14] Par: "folders/Sounds/example" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sounds/sndSmash/sndSmash.yy"
+[21-02-2024 17:14:14] Found Sound: sndSmash
+[21-02-2024 17:14:14] Checking sndSmash
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites
+[21-02-2024 17:14:14] Checking spr_wall
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_wall
+[21-02-2024 17:14:14] Checking spr_cursor
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_cursor
+[21-02-2024 17:14:14] Checking spr_block
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_block
+[21-02-2024 17:14:14] Checking sprWater
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWater
+[21-02-2024 17:14:14] Checking sprWall
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWall
+[21-02-2024 17:14:14] Checking sprPathArrow
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprPathArrow
+[21-02-2024 17:14:14] Checking sprGoal
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprGoal
+[21-02-2024 17:14:14] Checking sprFloor
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprFloor
+[21-02-2024 17:14:14] Checking sprExample
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprExample
+[21-02-2024 17:14:14] Checking sprCubeInWater
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprCubeInWater
+[21-02-2024 17:14:14] Checking sprCube
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprCube
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprCube
+[21-02-2024 17:14:14] Checking sprCube.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprCube/sprCube.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprCube/sprCube.yy
+[21-02-2024 17:14:14] Par: "folders/Sprites/example" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprCube/sprCube.yy"
+[21-02-2024 17:14:14] Found Sprite: sprCube
+[21-02-2024 17:14:14] Checking layers
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprCube/layers
+[21-02-2024 17:14:14] Checking 8a0138d3-370b-48a2-a6d7-aae7705e4b56.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprCube/layers
+[21-02-2024 17:14:14] Checking 8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprCube/layers/8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprCube/layers/8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Checking 4731aebd-9547-45ed-8913-e3bc584d18df.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprCubeInWater
+[21-02-2024 17:14:14] Checking sprCubeInWater.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprCubeInWater/sprCubeInWater.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprCubeInWater/sprCubeInWater.yy
+[21-02-2024 17:14:14] Par: "folders/Sprites/example" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprCubeInWater/sprCubeInWater.yy"
+[21-02-2024 17:14:14] Found Sprite: sprCubeInWater
+[21-02-2024 17:14:14] Checking layers
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprCubeInWater/layers
+[21-02-2024 17:14:14] Checking 8a0138d3-370b-48a2-a6d7-aae7705e4b56.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprCubeInWater/layers
+[21-02-2024 17:14:14] Checking 8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprCubeInWater/layers/8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprCubeInWater/layers/8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Checking 4731aebd-9547-45ed-8913-e3bc584d18df.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprExample
+[21-02-2024 17:14:14] Checking sprExample.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprExample/sprExample.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprExample/sprExample.yy
+[21-02-2024 17:14:14] Par: "folders/Sprites/example" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprExample/sprExample.yy"
+[21-02-2024 17:14:14] Found Sprite: sprExample
+[21-02-2024 17:14:14] Checking layers
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprExample/layers
+[21-02-2024 17:14:14] Checking 233f3271-c38f-49a1-b156-e952fe0d9660.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprExample/layers
+[21-02-2024 17:14:14] Checking 233f3271-c38f-49a1-b156-e952fe0d9660
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprExample/layers/233f3271-c38f-49a1-b156-e952fe0d9660
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprExample/layers/233f3271-c38f-49a1-b156-e952fe0d9660
+[21-02-2024 17:14:14] Checking 4731aebd-9547-45ed-8913-e3bc584d18df.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprFloor
+[21-02-2024 17:14:14] Checking sprFloor.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprFloor/sprFloor.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprFloor/sprFloor.yy
+[21-02-2024 17:14:14] Par: "folders/Sprites/example" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprFloor/sprFloor.yy"
+[21-02-2024 17:14:14] Found Sprite: sprFloor
+[21-02-2024 17:14:14] Checking layers
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprFloor/layers
+[21-02-2024 17:14:14] Checking 8a0138d3-370b-48a2-a6d7-aae7705e4b56.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprFloor/layers
+[21-02-2024 17:14:14] Checking 8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprFloor/layers/8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprFloor/layers/8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Checking 4731aebd-9547-45ed-8913-e3bc584d18df.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprGoal
+[21-02-2024 17:14:14] Checking sprGoal.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprGoal/sprGoal.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprGoal/sprGoal.yy
+[21-02-2024 17:14:14] Par: "folders/Sprites/example" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprGoal/sprGoal.yy"
+[21-02-2024 17:14:14] Found Sprite: sprGoal
+[21-02-2024 17:14:14] Checking layers
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprGoal/layers
+[21-02-2024 17:14:14] Checking 8a0138d3-370b-48a2-a6d7-aae7705e4b56.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprGoal/layers
+[21-02-2024 17:14:14] Checking 8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprGoal/layers/8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprGoal/layers/8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Checking 4731aebd-9547-45ed-8913-e3bc584d18df.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprPathArrow
+[21-02-2024 17:14:14] Checking sprPathArrow.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprPathArrow/sprPathArrow.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprPathArrow/sprPathArrow.yy
+[21-02-2024 17:14:14] Par: "folders/Sprites/example" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprPathArrow/sprPathArrow.yy"
+[21-02-2024 17:14:14] Found Sprite: sprPathArrow
+[21-02-2024 17:14:14] Checking layers
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprPathArrow/layers
+[21-02-2024 17:14:14] Checking 8a0138d3-370b-48a2-a6d7-aae7705e4b56.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprPathArrow/layers
+[21-02-2024 17:14:14] Checking 8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprPathArrow/layers/8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprPathArrow/layers/8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Checking 4731aebd-9547-45ed-8913-e3bc584d18df.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWall
+[21-02-2024 17:14:14] Checking sprWall.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWall/sprWall.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWall/sprWall.yy
+[21-02-2024 17:14:14] Par: "folders/Sprites/example" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWall/sprWall.yy"
+[21-02-2024 17:14:14] Found Sprite: sprWall
+[21-02-2024 17:14:14] Checking layers
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWall/layers
+[21-02-2024 17:14:14] Checking 8a0138d3-370b-48a2-a6d7-aae7705e4b56.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWall/layers
+[21-02-2024 17:14:14] Checking 8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWall/layers/8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWall/layers/8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Checking 4731aebd-9547-45ed-8913-e3bc584d18df.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWater
+[21-02-2024 17:14:14] Checking sprWater.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWater/sprWater.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWater/sprWater.yy
+[21-02-2024 17:14:14] Par: "folders/Sprites/example" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWater/sprWater.yy"
+[21-02-2024 17:14:14] Found Sprite: sprWater
+[21-02-2024 17:14:14] Checking layers
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWater/layers
+[21-02-2024 17:14:14] Checking c9c88559-96e0-4561-98c1-d61f99e7ebdd.png
+[21-02-2024 17:14:14] Checking a311184c-7a9d-4455-adae-db58292a1cda.png
+[21-02-2024 17:14:14] Checking 8a0138d3-370b-48a2-a6d7-aae7705e4b56.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWater/layers
+[21-02-2024 17:14:14] Checking c9c88559-96e0-4561-98c1-d61f99e7ebdd
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWater/layers/c9c88559-96e0-4561-98c1-d61f99e7ebdd
+[21-02-2024 17:14:14] Checking a311184c-7a9d-4455-adae-db58292a1cda
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWater/layers/a311184c-7a9d-4455-adae-db58292a1cda
+[21-02-2024 17:14:14] Checking 8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWater/layers/8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWater/layers/8a0138d3-370b-48a2-a6d7-aae7705e4b56
+[21-02-2024 17:14:14] Checking 4731aebd-9547-45ed-8913-e3bc584d18df.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWater/layers/a311184c-7a9d-4455-adae-db58292a1cda
+[21-02-2024 17:14:14] Checking 4731aebd-9547-45ed-8913-e3bc584d18df.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/sprWater/layers/c9c88559-96e0-4561-98c1-d61f99e7ebdd
+[21-02-2024 17:14:14] Checking 4731aebd-9547-45ed-8913-e3bc584d18df.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_block
+[21-02-2024 17:14:14] Checking spr_block.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_block/spr_block.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_block/spr_block.yy
+[21-02-2024 17:14:14] Par: "folders/Sprites" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_block/spr_block.yy"
+[21-02-2024 17:14:14] Found Sprite: spr_block
+[21-02-2024 17:14:14] Checking layers
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_block/layers
+[21-02-2024 17:14:14] Checking 58f4ac88-2252-4389-a7c5-7b561fc3e527.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_block/layers
+[21-02-2024 17:14:14] Checking 58f4ac88-2252-4389-a7c5-7b561fc3e527
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_block/layers/58f4ac88-2252-4389-a7c5-7b561fc3e527
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_block/layers/58f4ac88-2252-4389-a7c5-7b561fc3e527
+[21-02-2024 17:14:14] Checking 4a748eb2-00d7-4c5a-8dca-5c776725c6d2.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_cursor
+[21-02-2024 17:14:14] Checking spr_cursor.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_cursor/spr_cursor.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_cursor/spr_cursor.yy
+[21-02-2024 17:14:14] Par: "folders/Sprites" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_cursor/spr_cursor.yy"
+[21-02-2024 17:14:14] Found Sprite: spr_cursor
+[21-02-2024 17:14:14] Checking layers
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_cursor/layers
+[21-02-2024 17:14:14] Checking bfb92ad5-f0d4-411e-baa8-7fde6e780305.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_cursor/layers
+[21-02-2024 17:14:14] Checking bfb92ad5-f0d4-411e-baa8-7fde6e780305
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_cursor/layers/bfb92ad5-f0d4-411e-baa8-7fde6e780305
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_cursor/layers/bfb92ad5-f0d4-411e-baa8-7fde6e780305
+[21-02-2024 17:14:14] Checking d5ff4ed5-4829-4e91-856e-74dd4abf0358.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_wall
+[21-02-2024 17:14:14] Checking spr_wall.yy
+[21-02-2024 17:14:14] Parsing C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_wall/spr_wall.yy
+[21-02-2024 17:14:14] Reading C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_wall/spr_wall.yy
+[21-02-2024 17:14:14] Par: "folders/Sprites" at dir: "C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_wall/spr_wall.yy"
+[21-02-2024 17:14:14] Found Sprite: spr_wall
+[21-02-2024 17:14:14] Checking layers
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_wall/layers
+[21-02-2024 17:14:14] Checking 23703b15-f1cb-4c37-a873-a6522ed8ea88.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_wall/layers
+[21-02-2024 17:14:14] Checking 23703b15-f1cb-4c37-a873-a6522ed8ea88
+[21-02-2024 17:14:14] Directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_wall/layers/23703b15-f1cb-4c37-a873-a6522ed8ea88
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/sprites/spr_wall/layers/23703b15-f1cb-4c37-a873-a6522ed8ea88
+[21-02-2024 17:14:14] Checking 8a6862ba-2060-4b0f-9b57-5a304ea73755.png
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/tilesets
+[21-02-2024 17:14:14] Current parent directory: C:/Users/janss/Documents/GameMaker Projects/Freeze Game/timelines
+[21-02-2024 17:14:14] Moving files to trash...
+[21-02-2024 17:14:14] Files yeeted successfully!
+[21-02-2024 17:14:14] Generating YYP...
+[21-02-2024 17:14:14] Freeze Game.yyp created successfully!
