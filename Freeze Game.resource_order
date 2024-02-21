@@ -29,5 +29,12 @@
     {"name":"sleep","order":4,"path":"scripts/sleep/sleep.yy",},
     {"name":"FirstRoom","order":2,"path":"rooms/FirstRoom/FirstRoom.yy",},
     {"name":"rmExample","order":1,"path":"rooms/rmExample/rmExample.yy",},
+    {"name":"sprPathArrow","order":6,"path":"sprites/sprPathArrow/sprPathArrow.yy",},
+    {"name":"sprGoal","order":5,"path":"sprites/sprGoal/sprGoal.yy",},
+    {"name":"sprWall","order":4,"path":"sprites/sprWall/sprWall.yy",},
+    {"name":"sprWater","order":1,"path":"sprites/sprWater/sprWater.yy",},
+    {"name":"sprCubeInWater","order":3,"path":"sprites/sprCubeInWater/sprCubeInWater.yy",},
+    {"name":"sprFloor","order":7,"path":"sprites/sprFloor/sprFloor.yy",},
+    {"name":"sprCube","order":2,"path":"sprites/sprCube/sprCube.yy",},
   ],
 }
