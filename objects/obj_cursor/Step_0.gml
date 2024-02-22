@@ -57,6 +57,7 @@ else if (!_block.moving)
 		_block.x_dir = 0;
 		_block.move = true;
 		_block._cursor = self;
+		_push_indicator.visible = false;
 	}
 	if(keyboard_check_pressed(vk_down) && y < 75)
 	{
@@ -64,6 +65,7 @@ else if (!_block.moving)
 		_block.x_dir = 0;
 		_block.move = true;
 		_block._cursor = self;
+		_push_indicator.visible = false;
 	}
 	if(keyboard_check_pressed(vk_left) && x > 3)
 	{
@@ -71,6 +73,7 @@ else if (!_block.moving)
 		_block.x_dir = -1;
 		_block.move = true;
 		_block._cursor = self;
+		_push_indicator.visible = false;
 	}
 	if(keyboard_check_pressed(vk_right) &&  x < 42)
 	{
@@ -78,6 +81,7 @@ else if (!_block.moving)
 		_block.x_dir = 1;
 		_block.move = true;
 		_block._cursor = self;
+		_push_indicator.visible = false;
 	}
 }
 
@@ -85,9 +89,14 @@ if(keyboard_check_pressed(vk_space) && place_meeting(x,y,obj_block) && !moving_b
 {
 	_block = instance_nearest(x,y,obj_block);
 	moving_block = true;
+	
+	_push_indicator.visible = true;
+	_push_indicator.x = x;
+	_push_indicator.y = y;
 }
 
 else if(keyboard_check_pressed(vk_space) && moving_block)
 {
 	moving_block = false;
+	_push_indicator.visible = false;
 }
