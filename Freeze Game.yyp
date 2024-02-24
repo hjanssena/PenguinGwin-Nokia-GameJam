@@ -38,6 +38,7 @@
     {"id":{"name":"rmExample","path":"rooms/rmExample/rmExample.yy",},},
     {"id":{"name":"init","path":"scripts/init/init.yy",},},
     {"id":{"name":"macros","path":"scripts/macros/macros.yy",},},
+    {"id":{"name":"obj_goal","path":"objects/obj_goal/obj_goal.yy",},},
     {"id":{"name":"nokia_play_sound","path":"scripts/nokia_play_sound/nokia_play_sound.yy",},},
     {"id":{"name":"obj_cubeInWater","path":"objects/obj_cubeInWater/obj_cubeInWater.yy",},},
     {"id":{"name":"README","path":"scripts/README/README.yy",},},
@@ -46,6 +47,8 @@
     {"id":{"name":"sndSmash","path":"sounds/sndSmash/sndSmash.yy",},},
     {"id":{"name":"sprCube","path":"sprites/sprCube/sprCube.yy",},},
     {"id":{"name":"sprCubeInWater","path":"sprites/sprCubeInWater/sprCubeInWater.yy",},},
+    {"id":{"name":"rmLvl2","path":"rooms/rmLvl2/rmLvl2.yy",},},
+    {"id":{"name":"rmLvl1","path":"rooms/rmLvl1/rmLvl1.yy",},},
     {"id":{"name":"sprExample","path":"sprites/sprExample/sprExample.yy",},},
     {"id":{"name":"sprFloor","path":"sprites/sprFloor/sprFloor.yy",},},
     {"id":{"name":"obj_water","path":"objects/obj_water/obj_water.yy",},},
@@ -61,6 +64,8 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"FirstRoom","path":"rooms/FirstRoom/FirstRoom.yy",},},
     {"roomId":{"name":"rmExample","path":"rooms/rmExample/rmExample.yy",},},
+    {"roomId":{"name":"rmLvl2","path":"rooms/rmLvl2/rmLvl2.yy",},},
+    {"roomId":{"name":"rmLvl1","path":"rooms/rmLvl1/rmLvl1.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [
