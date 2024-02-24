@@ -1,5 +1,6 @@
 if(!moving_block)
 {
+	visible = true;
 	if(keyboard_check_pressed(vk_up) && y > 3)
 	{
 		y -= 6;
@@ -51,6 +52,7 @@ if(!moving_block)
 }
 else if (!_block.moving)
 {
+	visible = false;
 	if(keyboard_check_pressed(vk_up) && y > 3)
 	{
 		_block.y_dir = -1;
