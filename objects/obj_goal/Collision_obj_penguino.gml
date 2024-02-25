@@ -1,1 +1,1 @@
-nokia_play_sound();
+nokia_play_sound(sndIntro);
