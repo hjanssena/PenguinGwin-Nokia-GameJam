@@ -12,6 +12,7 @@
     {"name":"obj_block","order":3,"path":"objects/obj_block/obj_block.yy",},
     {"name":"obj_cursor","order":2,"path":"objects/obj_cursor/obj_cursor.yy",},
     {"name":"obj_wall","order":4,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"path_rmLvl2","order":11,"path":"paths/path_rmLvl2/path_rmLvl2.yy",},
     {"name":"FirstRoom","order":2,"path":"rooms/FirstRoom/FirstRoom.yy",},
     {"name":"obj_pushIndicator","order":7,"path":"objects/obj_pushIndicator/obj_pushIndicator.yy",},
     {"name":"sprTitle","order":8,"path":"sprites/sprTitle/sprTitle.yy",},
@@ -49,7 +50,7 @@
     {"name":"sprWater","order":1,"path":"sprites/sprWater/sprWater.yy",},
     {"name":"spr_block","order":2,"path":"sprites/spr_block/spr_block.yy",},
     {"name":"spr_cursor","order":1,"path":"sprites/spr_cursor/spr_cursor.yy",},
-    {"name":"pathLvl1","order":10,"path":"paths/pathLvl1/pathLvl1.yy",},
+    {"name":"path_rmLvl1","order":10,"path":"paths/path_rmLvl1/path_rmLvl1.yy",},
     {"name":"spr_wall","order":3,"path":"sprites/spr_wall/spr_wall.yy",},
   ],
 }
