@@ -8,4 +8,3 @@ arrows = [];
 crashed= false;
 
 pathLength = path_get_length(currentPath);
-
