@@ -8,6 +8,7 @@
     {"name":"group","order":7,"path":"folders/Sprites/group.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"rmLvlB","order":7,"path":"rooms/rmLvlB/rmLvlB.yy",},
     {"name":"spr_penguinoVictory","order":2,"path":"sprites/spr_penguinoVictory/spr_penguinoVictory.yy",},
     {"name":"obj_block","order":3,"path":"objects/obj_block/obj_block.yy",},
     {"name":"obj_cursor","order":2,"path":"objects/obj_cursor/obj_cursor.yy",},
@@ -38,6 +39,7 @@
     {"name":"rmLvl2","order":3,"path":"rooms/rmLvl2/rmLvl2.yy",},
     {"name":"TitleScreen","order":5,"path":"rooms/TitleScreen/TitleScreen.yy",},
     {"name":"rmLvl1","order":4,"path":"rooms/rmLvl1/rmLvl1.yy",},
+    {"name":"path_rmLvlB","order":13,"path":"paths/path_rmLvlB/path_rmLvlB.yy",},
     {"name":"sprExample","order":2,"path":"sprites/sprExample/sprExample.yy",},
     {"name":"snd_goal","order":3,"path":"sounds/snd_goal/snd_goal.yy",},
     {"name":"sprFloor","order":7,"path":"sprites/sprFloor/sprFloor.yy",},

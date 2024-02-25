@@ -28,6 +28,7 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"rmLvlB","path":"rooms/rmLvlB/rmLvlB.yy",},},
     {"id":{"name":"spr_penguinoVictory","path":"sprites/spr_penguinoVictory/spr_penguinoVictory.yy",},},
     {"id":{"name":"example","path":"objects/example/example.yy",},},
     {"id":{"name":"game","path":"objects/game/game.yy",},},
@@ -63,6 +64,7 @@
     {"id":{"name":"spr_penguinoWalk","path":"sprites/spr_penguinoWalk/spr_penguinoWalk.yy",},},
     {"id":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
     {"id":{"name":"rmLvl1","path":"rooms/rmLvl1/rmLvl1.yy",},},
+    {"id":{"name":"path_rmLvlB","path":"paths/path_rmLvlB/path_rmLvlB.yy",},},
     {"id":{"name":"sprExample","path":"sprites/sprExample/sprExample.yy",},},
     {"id":{"name":"snd_goal","path":"sounds/snd_goal/snd_goal.yy",},},
     {"id":{"name":"sprFloor","path":"sprites/sprFloor/sprFloor.yy",},},
@@ -82,6 +84,7 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
+    {"roomId":{"name":"rmLvlB","path":"rooms/rmLvlB/rmLvlB.yy",},},
     {"roomId":{"name":"rmLvl1","path":"rooms/rmLvl1/rmLvl1.yy",},},
     {"roomId":{"name":"rmLvl2","path":"rooms/rmLvl2/rmLvl2.yy",},},
     {"roomId":{"name":"rmLvlA","path":"rooms/rmLvlA/rmLvlA.yy",},},
