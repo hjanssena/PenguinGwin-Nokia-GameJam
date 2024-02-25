@@ -95,10 +95,12 @@ if(keyboard_check_pressed(vk_space) && place_meeting(x,y,obj_block) && !moving_b
 	_push_indicator.visible = true;
 	_push_indicator.x = x;
 	_push_indicator.y = y;
+	nokia_play_sound(snd_select);
 }
 
 else if(keyboard_check_pressed(vk_space) && moving_block)
 {
 	moving_block = false;
 	_push_indicator.visible = false;
+	nokia_play_sound(snd_select);
 }
