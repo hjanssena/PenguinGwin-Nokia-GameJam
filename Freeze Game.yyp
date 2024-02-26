@@ -92,7 +92,6 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
-    {"roomId":{"name":"FinalScreen","path":"rooms/FinalScreen/FinalScreen.yy",},},
     {"roomId":{"name":"rmLvl1","path":"rooms/rmLvl1/rmLvl1.yy",},},
     {"roomId":{"name":"rmLvl2","path":"rooms/rmLvl2/rmLvl2.yy",},},
     {"roomId":{"name":"rmLvl3","path":"rooms/rmLvl3/rmLvl3.yy",},},
@@ -100,6 +99,7 @@
     {"roomId":{"name":"rmLvlB","path":"rooms/rmLvlB/rmLvlB.yy",},},
     {"roomId":{"name":"rmSemiFinalBoss","path":"rooms/rmSemiFinalBoss/rmSemiFinalBoss.yy",},},
     {"roomId":{"name":"rmFinalBoss","path":"rooms/rmFinalBoss/rmFinalBoss.yy",},},
+    {"roomId":{"name":"FinalScreen","path":"rooms/FinalScreen/FinalScreen.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [
