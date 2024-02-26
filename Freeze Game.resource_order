@@ -10,6 +10,7 @@
   "ResourceOrderSettings": [
     {"name":"rmLvlB","order":7,"path":"rooms/rmLvlB/rmLvlB.yy",},
     {"name":"spr_penguinoVictory","order":2,"path":"sprites/spr_penguinoVictory/spr_penguinoVictory.yy",},
+    {"name":"sprWinScreen","order":9,"path":"sprites/sprWinScreen/sprWinScreen.yy",},
     {"name":"obj_block","order":3,"path":"objects/obj_block/obj_block.yy",},
     {"name":"obj_cursor","order":2,"path":"objects/obj_cursor/obj_cursor.yy",},
     {"name":"obj_wall","order":4,"path":"objects/obj_wall/obj_wall.yy",},
