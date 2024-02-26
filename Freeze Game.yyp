@@ -38,6 +38,7 @@
     {"id":{"name":"obj_penguino","path":"objects/obj_penguino/obj_penguino.yy",},},
     {"id":{"name":"obj_arrowPath","path":"objects/obj_arrowPath/obj_arrowPath.yy",},},
     {"id":{"name":"path_rmLvl2","path":"paths/path_rmLvl2/path_rmLvl2.yy",},},
+    {"id":{"name":"path_rmFinalBoss","path":"paths/path_rmFinalBoss/path_rmFinalBoss.yy",},},
     {"id":{"name":"FirstRoom","path":"rooms/FirstRoom/FirstRoom.yy",},},
     {"id":{"name":"obj_pushIndicator","path":"objects/obj_pushIndicator/obj_pushIndicator.yy",},},
     {"id":{"name":"sprTitle","path":"sprites/sprTitle/sprTitle.yy",},},
@@ -47,6 +48,7 @@
     {"id":{"name":"macros","path":"scripts/macros/macros.yy",},},
     {"id":{"name":"obj_goal","path":"objects/obj_goal/obj_goal.yy",},},
     {"id":{"name":"nokia_play_sound","path":"scripts/nokia_play_sound/nokia_play_sound.yy",},},
+    {"id":{"name":"rmFinalBoss","path":"rooms/rmFinalBoss/rmFinalBoss.yy",},},
     {"id":{"name":"spr_penguinoCrash","path":"sprites/spr_penguinoCrash/spr_penguinoCrash.yy",},},
     {"id":{"name":"obj_cubeInWater","path":"objects/obj_cubeInWater/obj_cubeInWater.yy",},},
     {"id":{"name":"README","path":"scripts/README/README.yy",},},
@@ -83,6 +85,7 @@
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"rmFinalBoss","path":"rooms/rmFinalBoss/rmFinalBoss.yy",},},
     {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
     {"roomId":{"name":"rmLvlB","path":"rooms/rmLvlB/rmLvlB.yy",},},
     {"roomId":{"name":"rmLvl1","path":"rooms/rmLvl1/rmLvl1.yy",},},
