@@ -50,6 +50,7 @@
     {"id":{"name":"path_rmSemiFinalBoss","path":"paths/path_rmSemiFinalBoss/path_rmSemiFinalBoss.yy",},},
     {"id":{"name":"obj_goal","path":"objects/obj_goal/obj_goal.yy",},},
     {"id":{"name":"nokia_play_sound","path":"scripts/nokia_play_sound/nokia_play_sound.yy",},},
+    {"id":{"name":"snd_winScreen","path":"sounds/snd_winScreen/snd_winScreen.yy",},},
     {"id":{"name":"rmFinalBoss","path":"rooms/rmFinalBoss/rmFinalBoss.yy",},},
     {"id":{"name":"spr_penguinoCrash","path":"sprites/spr_penguinoCrash/spr_penguinoCrash.yy",},},
     {"id":{"name":"obj_cubeInWater","path":"objects/obj_cubeInWater/obj_cubeInWater.yy",},},
@@ -68,6 +69,7 @@
     {"id":{"name":"rmLvl2","path":"rooms/rmLvl2/rmLvl2.yy",},},
     {"id":{"name":"path_rmLvl3","path":"paths/path_rmLvl3/path_rmLvl3.yy",},},
     {"id":{"name":"spr_penguinoWalk","path":"sprites/spr_penguinoWalk/spr_penguinoWalk.yy",},},
+    {"id":{"name":"obj_FinalScreen","path":"objects/obj_FinalScreen/obj_FinalScreen.yy",},},
     {"id":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
     {"id":{"name":"rmLvl1","path":"rooms/rmLvl1/rmLvl1.yy",},},
     {"id":{"name":"path_rmLvlB","path":"paths/path_rmLvlB/path_rmLvlB.yy",},},
@@ -90,6 +92,7 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
+    {"roomId":{"name":"FinalScreen","path":"rooms/FinalScreen/FinalScreen.yy",},},
     {"roomId":{"name":"rmLvl1","path":"rooms/rmLvl1/rmLvl1.yy",},},
     {"roomId":{"name":"rmLvl2","path":"rooms/rmLvl2/rmLvl2.yy",},},
     {"roomId":{"name":"rmLvl3","path":"rooms/rmLvl3/rmLvl3.yy",},},
@@ -97,7 +100,6 @@
     {"roomId":{"name":"rmLvlB","path":"rooms/rmLvlB/rmLvlB.yy",},},
     {"roomId":{"name":"rmSemiFinalBoss","path":"rooms/rmSemiFinalBoss/rmSemiFinalBoss.yy",},},
     {"roomId":{"name":"rmFinalBoss","path":"rooms/rmFinalBoss/rmFinalBoss.yy",},},
-    {"roomId":{"name":"FinalScreen","path":"rooms/FinalScreen/FinalScreen.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [
