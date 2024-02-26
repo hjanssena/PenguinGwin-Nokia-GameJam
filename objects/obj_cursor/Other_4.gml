@@ -1,3 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-movePenguino();
+
+ penguin = instance_find(obj_penguino,0)
+
+
+
+

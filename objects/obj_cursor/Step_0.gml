@@ -104,3 +104,9 @@ else if(keyboard_check_pressed(vk_space) && moving_block)
 	_push_indicator.visible = false;
 	nokia_play_sound(snd_select);
 }
+
+else if(keyboard_check(vk_space) && place_meeting(x,y,obj_goal))
+{
+	penguin.alarm[0]= -1;
+	penguin.movePenguino();
+}

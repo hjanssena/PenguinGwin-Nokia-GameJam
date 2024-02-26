@@ -7,3 +7,15 @@ currentDistance = 0;
 arrows = [];
 crashed= false;
 pathLength = path_get_length(currentPath);
+
+function movePenguino(){
+	if(!crashed){
+		var deltaDistance = movement/pathLength;
+
+		currentDistance++;
+		x = path_get_x(currentPath, deltaDistance * currentDistance);
+		y = path_get_y(currentPath, deltaDistance * currentDistance);
+
+		alarm[0] = 15;
+	}
+}
