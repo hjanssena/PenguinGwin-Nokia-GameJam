@@ -1,4 +1,4 @@
-Made for the NOKIA 3310 JAM 6 in 2024.
+Made for the [NOKIA 3310 JAM 6](https://itch.io/jam/nokiajam6) in 2024.
 
 Instructions:
 
